@@ -13,6 +13,7 @@ This is a video application, which is inspired by the Youtube platform, you can 
 Esta es una aplicación de videos, la cual está inspirada en la plataforma de Youtube, podrás escoger entre tema oscuro o tema claro en la aplicación dependiendo de la preferencia del usuario, fue construida en React Js usando Material UI, React Router Dome, los estilos hechos con Styled Components y sin falta el uso de los principales Hooks. El video fue exportado de la plataforma de Youtube directamente usando el iframe. Espero que les guste el diseño de Cjvetube.
 
 ![cjvetube1](https://user-images.githubusercontent.com/104727028/235348995-5a8da4c7-b6c3-4a84-878c-c2622f042cfc.PNG)
+![cjvetube2](https://user-images.githubusercontent.com/104727028/235678747-2acd8f6d-4b5d-4fd8-8a67-3b5bd5b3b68d.PNG)
 
 
 Web Site:  https://cjvetube.web.app
