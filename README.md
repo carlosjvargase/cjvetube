@@ -14,6 +14,7 @@ Esta es una aplicación de videos, la cual está inspirada en la plataforma de Y
 
 ![cjvetube1](https://user-images.githubusercontent.com/104727028/235348995-5a8da4c7-b6c3-4a84-878c-c2622f042cfc.PNG)
 ![cjvetube2](https://user-images.githubusercontent.com/104727028/235678747-2acd8f6d-4b5d-4fd8-8a67-3b5bd5b3b68d.PNG)
+![cjvetube3](https://user-images.githubusercontent.com/104727028/235899137-5d8f8fed-b380-4e75-92e1-a508f3780bda.PNG)
 
 
 Web Site:  https://cjvetube.web.app
