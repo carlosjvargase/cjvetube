@@ -1,6 +1,4 @@
-# cjvetube
 
-### 🇺🇸 Project's Name: Cjvetube.
 
 ### Web Site:  https://cjvetube.web.app
 
